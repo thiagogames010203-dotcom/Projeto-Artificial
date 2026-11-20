@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="295" viewBox="0 0 760 295" role="img" aria-labelledby="title">
+<title id="title">Tempo total de deslocamento no pico</title>
+<rect width="760" height="295" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#14253b">
+<text x="28" y="40" font-size="23" font-weight="bold">Tempo total de deslocamento no pico</text>
+<text x="28" y="66" font-size="15">Soma das duas rotas em minutos · cenário simulado</text>
+<text x="28" y="112" font-size="16">Ordem de chegada</text><rect x="268" y="90" width="408" height="32" rx="5" fill="#415b82"/><text x="689" y="112" font-size="16" font-weight="bold">120</text>
+<text x="28" y="166" font-size="16">Ordem otimizada</text><rect x="268" y="144" width="272" height="32" rx="5" fill="#415b82"/><text x="553" y="166" font-size="16" font-weight="bold">80</text>
+<text x="28" y="220" font-size="16">K-Means e ordem otimizada</text><rect x="268" y="198" width="183.6" height="32" rx="5" fill="#087b65"/><text x="464.6" y="220" font-size="16" font-weight="bold">54</text>
+<text x="28" y="270" font-size="14">O plano completo reduziu o tempo em 55% frente à ordem de chegada.</text>
+</g></svg>
